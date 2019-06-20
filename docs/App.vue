@@ -50,7 +50,7 @@ export default {
     '$route': 'scrollTop',
   },
   mounted() {
-    axois.get('http://api.github.com/repos/johmun/vue-tags-input').then(r => {
+    axois.get('http://api.github.com/repos/altafino/vue-tags-input').then(r => {
       this.stars = r.data.stargazers_count;
     }).catch(e => e);
   },

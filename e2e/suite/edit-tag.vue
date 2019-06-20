@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import VueTagsInput from '@johmun/vue-tags-input';
+import VueTagsInput from '@altafino/vue-tags-input';
 
 export default {
   name: 'EditTag',

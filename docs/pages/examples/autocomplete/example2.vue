@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import VueTagsInput from '@johmun/vue-tags-input';
+import VueTagsInput from '@altafino/vue-tags-input';
 import ElCode from '@components/el-code';
 import axios from 'axios';
 

@@ -24,12 +24,12 @@ A tags input component for VueJS with autocompletion, custom validation, templat
 
 NPM
 ```
-npm install @johmun/vue-tags-input
+npm install @altafino/vue-tags-input
 ```
 
 CDN
 ```
-<script src="https://unpkg.com/@johmun/vue-tags-input/dist/vue-tags-input.js"></script>
+<script src="https://unpkg.com/@altafino/vue-tags-input/dist/vue-tags-input.js"></script>
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ CDN
 
 ```javascript
 <script>
-import VueTagsInput from '@johmun/vue-tags-input';
+import VueTagsInput from '@altafino/vue-tags-input';
 
 export default {
   components: {
